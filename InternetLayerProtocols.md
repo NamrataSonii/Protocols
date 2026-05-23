@@ -1,7 +1,6 @@
 # Internet Layer Protocols
 
 > Protocols operating at the Internet layer of the DoD model — responsible for logical addressing, routing, and network-wide communication.
-
 ---
 
 ## Table of Contents
