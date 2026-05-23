@@ -7,7 +7,7 @@
 
 ## What's Covered
 
-### [Application & Transport Layer Protocols](./ApplicationTransportProtocols.md)
+### [Application Layer Protocols](./ApplicationLayerProtocols.md)
 
 Covers protocols that applications and users interact with directly — from file transfer to email, web browsing, and security.
 
